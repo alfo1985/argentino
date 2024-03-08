@@ -1,0 +1,14 @@
+{
+  "name": "nodeprac1",
+  "version": "0.0.1",
+  "description": "Proyecto para node",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Alfo",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
